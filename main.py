@@ -1,10 +1,9 @@
 import os
 import sys
 
-folder_exists = folder_created= 0
-
 while True:
-
+    folder_exists = folder_created= 0
+    
     name_stt = int(input("start: "))
     name_end = int(input("end: "))
 
