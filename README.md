@@ -1,2 +1,2 @@
 ﻿# Create-folders-sequentially
- Enter number you want to create for
+ Just enter the number that you want to create for
